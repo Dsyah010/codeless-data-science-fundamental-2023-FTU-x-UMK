@@ -1,9 +1,5 @@
 # Codeless Data Science Fundamental 2023 FTU x UMK
 
-Welcome to the class
-## Introduction
-This repository is about Data Science Fun. It is implementing KNIME Codeless Tool for doing data science analytics
-
 ## Abstact 
 The distribution of public transport services among Malaysia's states is thoroughly examined in this research. Public transportation is crucial for addressing problems with urban mobility and advancing sustainable transportation systems. By assessing the accessibility and availability of public transport alternatives across Malaysia's states, this study seeks to discover regional differences and opportunities for development.
 
