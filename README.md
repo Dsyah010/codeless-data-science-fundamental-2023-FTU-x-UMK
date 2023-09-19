@@ -4,4 +4,27 @@ Welcome to the class
 ## Introduction
 This repository is about Data Science Fun. It is implementing KNIME Codeless Tool for doing data science analytics
 
+## Abstact 
+The distribution of public transport services among Malaysia's states is thoroughly examined in this research. Public transportation is crucial for addressing problems with urban mobility and advancing sustainable transportation systems. By assessing the accessibility and availability of public transport alternatives across Malaysia's states, this study seeks to discover regional differences and opportunities for development.
 
+## Introduction
+  Urban mobility and the development of sustainable transport networks are crucial problems that modern nations around the world must address. Addressing these issues becomes much more crucial in Malaysia, a country distinguished by its unique physical and demographic landscape. This study begins a thorough investigation of how public transportation services are distributed among Malaysia's states, acknowledging the crucial part that public transportation plays in addressing urban mobility issues and promoting sustainable transportation solutions.
+  
+  This study's goal is to evaluate how easily accessible and readily available public transport options are in all of Malaysia's states, with a focus on revealing regional differences and pinpointing growth potential. We seek to give useful insights for policymakers, urban planners, and transport authorities by exploring the complex public transport network. These perceptions can then be used to guide evidence-based choices that improve public transportation systems, ease traffic congestion, and encourage environmentally friendly modes of transportation.
+  
+  The demand for successful, affordable, and sustainable transportation choices grows as Malaysia continues to face rapid urbanisation and population increase. The continuous problems brought on by pollution, air pollution, and difficult access to employment possibilities also highlight how urgent this research is. We intend to contribute to the development of targeted policies and strategies to solve these urgent concerns by thoroughly analysing the state-by-state distribution of public transport services.
+  
+  This study uses a multimodal methodology to provide a thorough analysis of Malaysia's public transport system. We aim to promote an informed discussion on the development of Malaysia's transport system that takes into account both the immediate needs of commuters and the long-term sustainability of the country's transport infrastructure by analysing the benefits and drawbacks of the current systems and highlighting areas for development.
+  
+  In Malaysia, the distribution of available public transport is a critical issue. This study intends to shed light on state-specific distinctions and development potential within the public transport landscape in order to enhance urban mobility and sustainable transport systems for the benefit of all Malaysians.
+
+## Methodology
+There are several crucial phases involved in developing a methodology for KNIME analysis of the availability of public transport options by state in Malaysia. One can carry out numerous data pretreatment, analysis, and visualisation tasks using KNIME, a robust open-source data analytics and integration platform. Here is a step-by-step process:
+
+### 1.	Data Collection
+Data Sources: The data is from dataset https://data.gov.my/ 
+Data Selection: Data septically covering the data of public transportation by state in Malaysia from 2021 to 2023
+### 2.	 Data Preprocessing
+Data Cleaning: For data cleaning node column is use to remove ‘category’ in the dataset to ensure the data can be visualize more clearly
+Normalization: Normalization is used to scale and transforming numerical data in a dataset so that its fall within a specific range or follow a particular distribution 
+### 3.	Data Visualization  
