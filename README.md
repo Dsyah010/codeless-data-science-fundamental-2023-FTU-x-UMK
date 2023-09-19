@@ -25,4 +25,5 @@ Data Cleaning: For data cleaning node column is use to remove ‘category’ in 
 Normalization: Normalization is used to scale and transforming numerical data in a dataset so that its fall within a specific range or follow a particular distribution 
 ### 3.	Data Visualization  
 ![Screenshot 2023-09-19 090308](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/9cf02313-aabf-456f-b6b8-0cfd24a18cba)
+
 My Workflow
