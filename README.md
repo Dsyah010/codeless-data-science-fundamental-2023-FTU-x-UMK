@@ -42,4 +42,5 @@ Bar Chat
 Scatter Plot 
 ![Screenshot 2023-09-19 222559](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/c30ad4c5-5a40-4355-be19-a702f7db19bb)
 
-
+## Conclusion
+Through this analysing using knime workflow I can analyse all the dataset of public transportation in all state of Malaysia. We can also learn all the pattern of public transportation by state in Malaysia using the government can use this as a reference if they want to improve the public transportation in Malaysia. This can also the economic growth of Malaysia and can also make thing easily for the people in Malaysia and also make the environment more cleaner.     
