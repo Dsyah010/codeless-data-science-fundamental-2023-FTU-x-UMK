@@ -27,3 +27,19 @@ Normalization: Normalization is used to scale and transforming numerical data in
 My Workflow
 ![Screenshot 2023-09-19 090308](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/9cf02313-aabf-456f-b6b8-0cfd24a18cba)
 
+Statistik
+![Screenshot 2023-09-19 222559](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/d93279a9-0237-414f-9f44-848fcd54171c)
+![Screenshot 2023-09-19 222627](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/27b01109-d38f-42d0-bb04-fe399adc7dda)
+![Screenshot 2023-09-19 222700](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/ebf4fc8c-6709-48fc-afa6-45a839ff5bfe)
+![Screenshot 2023-09-19 222751](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/2906f5c7-07cf-4b88-8f0d-cfcb09c559b6)
+
+Line Plot
+![Screenshot 2023-09-19 221932](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/a543b524-96cf-474d-8dbf-97b92cdbe00a)
+
+Bar Chat
+![Screenshot 2023-09-19 221957](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/39c8c499-3893-48bf-b38e-858aa36136fc)
+
+Scatter Plot 
+![Screenshot 2023-09-19 222559](https://github.com/Dsyah010/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/94912619/c30ad4c5-5a40-4355-be19-a702f7db19bb)
+
+
